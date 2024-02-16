@@ -28,7 +28,7 @@ function App() {
                 </CollapsibleSection>
                 <CollapsibleSection title="Hmm, seems sus, how can I know there isn't a virus?">
                     <p>
-                        Everything here is open-source! You can check the raw code <a href='https://github.com/EIIis/old_ahk/tree/gh-pages/src/assets/ahk' target='_blank' rel='noopener noreferrer'>here</a> for yourself!
+                        Everything here is open-source! You can check the raw code <a href='https://github.com/EIIis/ahk/tree/master/src/assets/ahk' target='_blank' rel='noopener noreferrer'>here</a> for yourself!
                     </p>
                 </CollapsibleSection>
                 <CollapsibleSection title="Could AHK cause me to be banned/against the rules?">
