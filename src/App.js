@@ -2,17 +2,17 @@ import React from 'react';
 import './App.css';
 import Homepage from '../src/pages/Main.js';
 import { css, StyleSheet } from 'aphrodite';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 
 class App extends React.Component {
   render() {
     return (
         <main className={css(styles.container)}>
-            <BrowserRouter>
+            <HashRouter>
               <Routes>
                 <Route exact path="/" element={<Homepage/>} />
               </Routes>
-            </BrowserRouter>
+            </HashRouter>
         </main>
     );
   }
