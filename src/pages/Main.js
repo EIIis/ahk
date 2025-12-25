@@ -4,8 +4,6 @@ import Paragraph from '../components/Paragraph';
 import Download from '../components/Download';
 import CollapsibleSection from '../components/CollapsibleSection';
 
-import test from '../assets/ahk/test.ahk'
-
 
 function App() {
     return (
@@ -45,9 +43,7 @@ function App() {
 
             <Paragraph text="Below you will find all my current scripts. I will add more as time goes by :)"/>
             <CollapsibleSection title="Scripts">
-                <CollapsibleSection title="Double Gmaul -> Wack">
-                    <Download fileUrl={test} fileName="random.ahk" text="TEST FILE"/>
-                </CollapsibleSection>
+                <p style={{textAlign: 'center', padding: '20px'}}>Scripts coming soon! Check back later.</p>
             </CollapsibleSection>
 
             <Paragraph text="I invite everyone to joing my <a href='https://discord.gg/ZUcmmH2TK6' target='_blank' rel='noopener noreferrer'>Discord</a> for any help you need or just to chat!" />
