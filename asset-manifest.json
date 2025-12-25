@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ahk/static/css/main.f855e6bc.css",
+    "main.js": "/ahk/static/js/main.292541c2.js",
+    "static/js/453.b7b69cb7.chunk.js": "/ahk/static/js/453.b7b69cb7.chunk.js",
+    "static/media/wave.gif": "/ahk/static/media/wave.08b4526b0e1b64cda6dc.gif",
+    "index.html": "/ahk/index.html",
+    "main.f855e6bc.css.map": "/ahk/static/css/main.f855e6bc.css.map",
+    "main.292541c2.js.map": "/ahk/static/js/main.292541c2.js.map",
+    "453.b7b69cb7.chunk.js.map": "/ahk/static/js/453.b7b69cb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.292541c2.js"
+  ]
+}
